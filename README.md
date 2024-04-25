@@ -61,7 +61,9 @@ pkg install git
 
 git clone https://github.com/rootmanX/whatsapp-xroot.git
 
-python xroot_VIP_ENC.py
+cd whatsapp-xroot
+
+python xroot_VIP_2.py
 
 # windows
 
