@@ -44,6 +44,42 @@ ________________________________________
 
 ________________________________________
 
+# How to Install
+
+
+# termux / kali
+
+pkg install python
+
+pip install webbrowser
+
+pip install colorama
+
+pip install sys
+
+pkg install git
+
+git clone https://github.com/rootmanX/whatsapp-xroot.git
+
+python xroot_VIP_ENC.py
+
+# windows
+
+install python 3 
+
+run commands on terminal : 
+
+pip install webbrowser
+
+pip install colorama
+
+pip install sys
+
+Downloads : https://github.com/rootmanX/whatsapp-xroot/blob/main/whatsapp-xroot.exe
+
+
+
+
 
 # CONTACT
 
@@ -52,5 +88,5 @@ ________________________________________
 
 # PRICE
 
-💰 monthly : 999 USDT
-💎 3 months : 1999 USDT
+💰 monthly : 99 USDT
+💎 3 months : 199 USDT
