@@ -1,3 +1,9 @@
+
+Number of available
+✅ 0/20
+
+🟣All copies were sold🟣
+
 # About:
 
 🔓 whatsapp_xroot - Breach WhatsApp with This Powerful Hacking Tool
